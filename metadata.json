@@ -1,0 +1,6 @@
+{
+  "name": "Assignment Hub",
+  "description": "A dashboard for students and admins to manage assignments. Admins can create assignments and track submission progress, while students can view and submit their work.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
